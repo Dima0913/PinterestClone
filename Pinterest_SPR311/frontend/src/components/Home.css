@@ -1,0 +1,46 @@
+.home-container {
+  min-height: 100vh;
+  background: white;
+}
+
+.inspira-home {
+  background: #e3f2fd;
+}
+
+.home-layout {
+  display: flex;
+  margin-top: 60px;
+}
+
+.home-main {
+  flex: 1;
+  margin-left: 60px;
+  padding: 20px;
+  min-height: calc(100vh - 60px);
+}
+
+.inspira-main {
+  background: #e3f2fd;
+}
+
+.inspira-headline {
+  font-size: 32px;
+  font-weight: 700;
+  color: #111;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .home-main {
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 768px) {
+  .home-main {
+    margin-left: 0;
+    padding: 10px;
+  }
+}
+

@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e3f2fd;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Inspira design tokens */
+:root {
+  --inspira-blue: #0066cc;
+  --inspira-blue-light: #4da6ff;
+  --inspira-bg: #e3f2fd;
+  --inspira-bg-darker: #b3d9f2;
+  --inspira-text: #333333;
+  --inspira-text-light: #8e8e8e;
+  --inspira-avatar-green: #0a6640;
+  --inspira-white: #ffffff;
+}
+

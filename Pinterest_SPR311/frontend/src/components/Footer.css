@@ -1,0 +1,48 @@
+.inspira-footer {
+  background: #f8f8f8;
+  padding: 40px 20px;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #444;
+}
+
+.inspira-footer .faq-section {
+  max-width: 800px;
+  margin: 0 auto 24px;
+}
+
+.inspira-footer .faq-section h2 {
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: #111;
+}
+
+.inspira-footer .faq-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.inspira-footer .faq-section li {
+  margin-bottom: 6px;
+}
+
+.inspira-footer .footer-links {
+  margin: 24px 0;
+}
+
+.inspira-footer .footer-links a {
+  margin: 0 8px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.inspira-footer .footer-links a:hover {
+  text-decoration: underline;
+}
+
+.inspira-footer .copyright {
+  font-size: 12px;
+  color: #888;
+}
